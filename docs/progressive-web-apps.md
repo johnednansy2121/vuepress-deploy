@@ -3,12 +3,12 @@ title: Progressive Web Apps
 ---
 # Progressive Web Apps
 
-## Anforderungen
+## Something
 
-## Entwicklung einer PWA
+## Something here
 
-## Wie funktioniert eine PWA?
+## Something here maybe
 
-## Vorteile einer PWA
+## Something here maybe again
 
-## PWA testen
+## Something here maybe again too
