@@ -1,9 +1,9 @@
 module.exports = {
-    title: "VuePress Deploy",
+    title: "John Was Here",
     locales: {
         '/': {
             lang: 'de-DE',
-            title: 'VuePress Deploy',
+            title: 'John Was Here',
             description: 'Vuepress with Netlify Deploy Button'
         }
     },
@@ -30,7 +30,7 @@ module.exports = {
             },
             {
                 text: 'Admin',
-                link: '/admin',
+                link: '/admin/#/',
             },
             {
                 text: 'NetlifyCMS Config Help',
