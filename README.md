@@ -1,7 +1,7 @@
 ---
 home: true
 pageClass: front
-actionText: Hello VuePress →
+actionText: John was here →
 actionLink: /docs/
 features:
 - title: One-click Deploy
@@ -15,7 +15,7 @@ features:
 
 
 
-# VuePress Deploy
+# John Was Here
 
 This is a Starter template for a [VuePress](https://vuepress.vuejs.org) with a Progressive Web App (PWA) out of the box.  
 And it integrates the NetlifyCMS with VuePress.
